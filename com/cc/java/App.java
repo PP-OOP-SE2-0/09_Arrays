@@ -22,11 +22,11 @@ public class App {
 			
 		// Deklaration: String
 		// String [] strArr = new String [2];
-		// String [] strArr = {"Hallo","Nikola"};
+		String [] strArr = {"Hallo","Nikola"};
 		
-		// for (int i = 0; i < strArr.length; i++) {
-		// 	output("Element: " + strArr[i]);
-		// }
+		for (int i = 0; i < strArr.length; i++) {
+			output("Element: " + strArr[i]);
+		}
 		
 		
 		// Mehrdimensionale Arrays
